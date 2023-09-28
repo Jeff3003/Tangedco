@@ -16,6 +16,19 @@
         android:scaleType="centerCrop"
         android:src="@drawable/tangedco" />
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20sp"
+        android:hint="Usuário"
+        android:drawableEnd="@drawable/user"
+
+        android:textColorHint="#fff"
+
+        android:padding="10sp"/>
+
+
+
 
 
 
