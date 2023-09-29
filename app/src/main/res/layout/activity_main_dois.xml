@@ -54,10 +54,10 @@
 
     <Button
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="100dp"
+        android:background="#CD3755"
         android:text="Sign Up"
-        android:backgroundTint="#CD3755"
-        android:layout_marginTop="145dp"/>
+        android:layout_marginTop="130dp"/>
     </LinearLayout>
 
 
